@@ -4,7 +4,7 @@
 
 .masthead {
   text-align: center;
-  margin: auto;
+  margin-top: 80px;
   width: 100%;
 
   a {
@@ -37,9 +37,15 @@
 .masthead-tagline {
   padding: 0;
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.40rem;
   font-weight: 400;
   opacity: .7;
+}
+
+.masthead-social {
+  padding-bottom: 21px;
+  font-size: 1.5rem;
+  font-weight: 900;
 }
 
 .navigation-list {
