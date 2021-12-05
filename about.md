@@ -6,7 +6,7 @@ title: About Me
 Welcome in my personal blog page!
 {% endhighlight %}
 
-![Tooltip](/profile-img.jpeg){: .profile_about_image}
+![Tooltip](/assets/img/profile-img.jpeg){: .profile_about_image}
 
 ## A few things what you really need to know about me
 - The study is my passion! I’m a constant learner with a passion for Software Design.

@@ -2,10 +2,10 @@
 title: Andrew Alieksieiev
 description: Enthusiastic personal blog
 url: https://github.com/Brainisthekey
-avatar: /avatar.jpeg
+avatar: /assets/img/avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/img/background.jpeg
 
 # Gems
 plugins:
