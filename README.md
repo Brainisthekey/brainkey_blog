@@ -6,7 +6,7 @@
 
 **Is a simple, beautiful, and powerful of knowledge blog :)**
 
-> Poole explains that Jekyll has been asking for a particular chemical for days now but every time it has been fetched for him he rejects it as **not pure**. Poole also explains that he caught a glimpse of the man inside and he looked barely human.
+> I want to communicate my knowledge to educate the public. Based on my training and expirience, I would be really happy if my blog will help you to know more about your targer subject! Cheers 🥂
 >
 
 -----
