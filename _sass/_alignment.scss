@@ -20,6 +20,13 @@
   margin-left: auto;
 }
 
+.profile_about_image {
+  display: inline;
+  margin-right: auto;
+  margin-left: 2px;
+  width: 40%;
+}
+
 figcaption.align-right {
   text-align: right;
 }
@@ -30,4 +37,8 @@ figcaption.align-left {
 
 figcaption.align-center {
   text-align: center;
+}
+
+figcaption.profile_about_image {
+  text-align: left;
 }
