@@ -44,6 +44,6 @@ I have an expirience working in a project where a lot of features such as:  [Doc
 ## Currentry working in a two projects:
 
  - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for multiple and multiplatform device managment
- - Application for fully controlling, management for small and medium firm
+ - Application for fully control and management for Small and medium-sized enterprises
  
 > -"The More You Love Your Job, The Harder You’ll Work"
