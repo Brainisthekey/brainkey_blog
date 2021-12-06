@@ -14,7 +14,7 @@ title: A few words about me
 I began my career in trading company as a [Trader](https://en.wikipedia.org/wiki/Trader_(finance)) - <em>Work with a real, big money it's always stressful.<em>
 
 But to be honest I really glad and proud that I was a part of [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) community.
-The idea to become a trader came to me, exactly when I was working as a trader. At some point I realized that I stoped in development
+The idea to become a progranner came to mind, exactly when I was working as a trader. At some point I realized that I stoped in development
 and my daily routine turned into execution of instructions. And the most important thing, is that you success depends more on the volatility of the market, not on your knowledge! The first idea to change field of activity became to my mind when I tried to develop my first <em>**trading bot**.
 
 ## Which lessons I gained from my first job
