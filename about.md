@@ -1,14 +1,7 @@
 ---
-layout: page
+layout: about
 title: A few words about me
 ---
-
-![Tooltip](/assets/img/profile-img.jpeg){: .profile_about_image}
-
-
-- The study is my passion! I’m a constant learner with a passion for Software Design.
-- I love photography on vintage cameras, where you have only one chance to take a good picture
-- I enjoy taking on new and complex challenges
 
 ## History before I became a programmer
 I began my career in trading company as a [Trader](https://en.wikipedia.org/wiki/Trader_(finance)) - <em>Work with a real, big money it's always stressful.<em>
