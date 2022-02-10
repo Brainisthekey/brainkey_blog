@@ -33,9 +33,9 @@ I have used [Agile](https://en.wikipedia.org/wiki/Agile_software_development) me
 
 I also have an experience working on a project where a lot of features such as:  [Docker](https://en.wikipedia.org/wiki/Docker_(software)),  [CI/CD](https://en.wikipedia.org/wiki/CI/CD),  [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch),  [Sentry](https://sentry.io/about/) and [AWS](https://en.wikipedia.org/wiki/AWS_(disambiguation)) were used.
 
-## Currentry working in a two projects:
+## Currently working in two projects:
 
- - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for multiple and multiplatform device management
+ - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for UEM, ITAM, and MDM Software for Business
  - Application for full control and management for small and medium-sized enterprises
 
 > -"The More You Love Your Job, The Harder You’ll Work"
