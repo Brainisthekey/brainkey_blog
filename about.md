@@ -6,8 +6,8 @@ title: A few words about me 📝
 ## History before I became a programmer
 I began my career with a trading company as a [Trader](https://en.wikipedia.org/wiki/Trader_(finance)) - <em>Working with a real, big money it's always stressful.<em>
 
-But to be honest I'm really glad and proud that I was a part of the [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) community.
-The idea to become a programmer came to mind, while I was working as a trader. At some point I realized that I had stopped in developing as my daily routine had turned into the execution of instructions. Above all, the most important thing, is that success depended more on the volatility of the market, not on your knowledge! The first idea to change my field of activity came to my mind when I was trying to develop my first <em>**trading bot**.
+But to be honest I'm really glad and proud that I was a part of the cryptocurrency community.
+The idea to become a programmer came to my mind, while I was working as a trader. At some point I realized that I had stopped in developing as my daily routine had turned into the execution of instructions. Above all, the most important thing, is that success depended more on the volatility of the market, not on your knowledge! The first idea to change my field of activity came to my mind when I was trying to develop my first <em>**trading bot**.
 
 ## Which lessons I gained from my first job
 <dl>
@@ -25,17 +25,26 @@ The idea to become a programmer came to mind, while I was working as a trader. A
 
 ## What I do as a programmer
 
-On a day-to-day basis, I am responsible for for <ins>**coding**</ins>, <ins>**designing**</ins>, <ins>**deploying**</ins>, and <ins>**debugging**</ins> development projects, typically on the server-side (or back-end) using the [Version Control](https://en.wikipedia.org/wiki/Version_control) system. As a [Python Developer](https://en.wikipedia.org/wiki/Python_(programming_language)) I am often work in close collaboration with data collection and analytics to create useful answers to questions and provide a valuable insight. I also closely work with [Django Rest Framework](https://www.django-rest-framework.org/) to build a true [RESTful API](https://www.redhat.com/en/topics/api/what-is-a-rest-api) for creating scalable code.
-Moreover I familiar with optimization and designing a productive architecture for various [SQL](https://en.wikipedia.org/wiki/SQL) DataBases.
-Additionally, I practice [TDD](https://en.wikipedia.org/wiki/Test-driven_development) usage in my development process. I believe that writing tests of each implemented part of code is the best practice.
+On a day-to-day basis, I am responsible for for <ins>**coding**</ins>, <ins>**designing**</ins>, <ins>**deploying**</ins>, <ins>**refactoring**</ins> and <ins>**debugging**</ins> development projects, typically on the server-side (or back-end) using the version control systems. As a Software Engineer I am often work in close collaboration with data collection and analytics to create useful answers to questions and provide a valuable insight. I also closely work with Django Rest Framework to build a true RESTful API and create a scalable code.
+Moreover I familiar with optimization and designing a productive architecture for various SQL databases.
+Additionally, I practice TDD in my development process. I believe that writing the tests of each implemented part of code is the best practice.
 
-I have used [Agile](https://en.wikipedia.org/wiki/Agile_software_development) methodology in all projects and personally I believe that it is more than a collection of software development techniques or ceremonies. For me, Agile is a group of methodological teams that can mix as they like – as long as they stay committed to short feedback cycles and continuous improvement of their process.
-
-I also have an experience working on a project where a lot of features such as:  [Docker](https://en.wikipedia.org/wiki/Docker_(software)),  [CI/CD](https://en.wikipedia.org/wiki/CI/CD),  [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch),  [Sentry](https://sentry.io/about/) and [AWS](https://en.wikipedia.org/wiki/AWS_(disambiguation)) were used.
+I have used Agile methodology in all projects and personally I believe that it is more than a collection of software development techniques or ceremonies. For me, Agile is a group of methodological teams that can mix as they like – as long as they stay committed to short feedback cycles and continuous improvement of their process.
 
 ## Currently working in two projects:
 
- - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for UEM, ITAM, and MDM Software for Business
- - Application for full control and management for small and medium-sized enterprises
+ - For one of the biggest UEM, ITAM, and MDM Software for business
+ - Application for fully control and management for small and medium-sized enterprises
+
+## Project duites
+  - Writing effective, scalable, secure and data protected code
+  - Designing and implementing robust solutions
+  - Debugging applications to ensure low-latency and high-availability
+  - Integrating user-facing elements with server-side logic
+  - Accommodating various data storage solutions
+  - Feature development, bug fixing, and most important refactoring shitty code ;)
+  - Participating in recruitment processes
+  - Being buddy/mentorship of people from the first day of adaptation to complete onboarding
+  - Taking care of leading meetings like – “Core Backend Chapter” or “Brain Storm on Friday”
 
 > -"The More You Love Your Job, The Harder You’ll Work"
