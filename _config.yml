@@ -2,10 +2,21 @@
 title: Andrew Alieksieiev
 description: Enthusiastic personal blog
 url: https://github.com/Brainisthekey
+
+# Photos
 avatar: /assets/img/avatar.jpeg
-permalink: pretty
 cover_image: /assets/img/background.jpeg
-about-img: /assets/img/profile-img.jpeg
+wrocpy: /assets/img/wrocpy.jpg
+pytech: /assets/img/pytech.png
+python-katowice: /assets/img/python-katowice.jpg
+code-europe-img: /assets/img/code-europe-img.jpeg
+game-of-teens: /assets/img/game-of-teens.jpeg
+
+# Videos
+code-europe-video: https://www.youtube.com/embed/Sa3wzudPZZo
+frontend-for-backend: https://www.youtube.com/embed/pJWJjvRaAM0
+
+permalink: pretty
 
 collections:
   posts:

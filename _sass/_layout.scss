@@ -21,6 +21,10 @@
   min-height: 100vh;
 }
 
+.tools {
+  display: flex;
+}
+
 .sidebar-left {
   display: flex;
   padding: var(--spacer+1);
