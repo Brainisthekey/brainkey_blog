@@ -5,12 +5,5 @@ layout: default
 {% include home-header.html %}
 
 <article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  <div id="container">
-    {%- if site.about-img contains "://" -%}
-        {%- assign about-img = site.about-img -%}
-    {%- else -%}
-        {%- assign about-img = site.about-img | relative_url -%}
-    {%- endif -%}
   {{ content }}
 </article>

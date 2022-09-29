@@ -7,6 +7,13 @@ permalink: pretty
 cover_image: /assets/img/background.jpeg
 about-img: /assets/img/profile-img.jpeg
 
+collections:
+  posts:
+    output: true
+  activity:
+    output: true
+
+
 # Gems
 plugins:
   - jekyll-gist
@@ -14,8 +21,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-
 paginate: 5
+
 
 # Optimize Jekyll
 exclude:
@@ -29,7 +36,7 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
+
 twitter:
   username: Brain_keyy
   card: summary
@@ -42,27 +49,12 @@ social:
 google_site_verification: xxxxx
 lang: en
 
+
 sass:
   sass_dir: _sass
   style: :compressed
 
-collections:
-  activity:
-    output: true
-    permalink: /activity/:path/
-  posts:
-    output: true
-    permalink: /:path/
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
 author:
   name: Andrew Alieksieiev
   url: https://github.com/Brainisthekey
