@@ -2,6 +2,7 @@
 title: Andrew Alieksieiev
 description: Enthusiastic personal blog
 url: https://github.com/Brainisthekey
+baseurl: "/brainkey_blog"
 
 # Photos
 avatar: /assets/img/avatar.jpeg
