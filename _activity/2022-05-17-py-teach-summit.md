@@ -9,4 +9,12 @@ Public speaking about "Multi-tenant architecture as one of ways to scale your ap
 
 My second public speech
 
-<img src="{{ site.pytech }}" style="width:800px;height:500px" alt="" />{: .align-center}
+<div>
+{%- if site.pytech contains "://" -%}
+    {%- assign pytech = site.pytech -%}
+{%- else -%}
+    {%- assign pytech = site.pytech | relative_url -%}
+{%- endif -%}
+</div>
+
+<img src="{{ pytech }}" style="width:800px;height:500px" alt="" />{: .align-center}

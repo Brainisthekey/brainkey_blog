@@ -8,7 +8,14 @@ Mentorship and part of the jury in Hackathon organized for the kids aged 8-16
 {: .message }
 
 
-<img src="{{ site.game-of-teens }}" style="width:1100px;height:360px" alt="" />{: .align-center}
+<div>
+{%- if site.game-of-teens contains "://" -%}
+    {%- assign game-of-teens = site.game-of-teens -%}
+{%- else -%}
+    {%- assign game-of-teens = site.game-of-teens | relative_url -%}
+{%- endif -%}
+</div>
+<img src="{{ game-of-teens }}" style="width:1100px;height:360px" alt="" />{: .align-center}
 
 Some time ago I got an interesting offer in the LinkedIn community to participate in **IT Hackathon organized for kids aged of 8-16** ([Event Link](https://lnkd.in/dfwHVwDY)). I was invited to be one of the Python’s jury. That was my first experience as a jury, and actually, the responsibilities were pretty clear for me, nothing special at first look. As a jury, we should have made code reviews, given constructive feedback, and chosen the winner. Sounds pretty straightforward, does it? 🤔🤫
 

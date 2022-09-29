@@ -7,6 +7,14 @@ last_modified_at: 2022-08-19 01:08:25 +0800
 Frontend crash course for backend developers
 {: .message }
 
+<div>
+{%- if site.frontend-for-backend contains "://" -%}
+    {%- assign frontend-for-backend = site.frontend-for-backend -%}
+{%- else -%}
+    {%- assign frontend-for-backend = site.frontend-for-backend | relative_url -%}
+{%- endif -%}
+</div>
+
 <iframe
     width="560"
     height="315"
